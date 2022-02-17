@@ -3,7 +3,9 @@
 
 
 -Open the folder in the code editor
+
 -open terminal
+
 -write to terminal : "python src/solution.py"
 
 
